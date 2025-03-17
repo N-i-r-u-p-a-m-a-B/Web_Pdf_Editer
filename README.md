@@ -22,7 +22,7 @@ This project provides a web-based application to convert PDF documents into edit
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository_url]
+    git clone [https://github.com/N-i-r-u-p-a-m-a-B/Web_Pdf_Editer/tree/main]
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
